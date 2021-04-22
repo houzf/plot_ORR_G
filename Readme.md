@@ -29,6 +29,6 @@ Input:
 &#916;G<sub>water</sub> = -2.46 eV is the experimental formation energy of water molecule. &#916;G<sub>&#42;O</sub>, &#916;G<sub>&#42;OH</sub>, and &#916;G<sub>&#42;OOH</sub> are the adsorption Gibbs free energies of ORR intermediate species (&#42;O, &#42;OH, and &#42;OOH) at the room temperature and standard pressure.
 
 
-FePc_pH0_0V_hl.dat:  for the horizontal line
+- FePc_pH13_0V_hl.dat:  for the horizontal line
 
-FePc_pH0_0V_dl.dat: for the oblique line between two neighboring horizontal lines. 
+- FePc_pH13_0V_dl.dat: for the oblique line between two neighboring horizontal lines. 
