@@ -1,4 +1,4 @@
-From the Gibb free energy change (&#916;G<sub>i</sub>) for each elementary ORR step (standard 4e reaction steps) at 0 V and pH=0, one can obtain the Gi at a given voltage and pH.
+From the Gibb free energy change (&#916;G<sub>i</sub>) for each elementary ORR step (standard 4e reaction steps) at 0 V and pH=0, one can obtain the &#916;G<sub>i</sub> at a given voltage and pH.
 
 Input: 
      volt, pH, &#916;G<sub>i</sub>
