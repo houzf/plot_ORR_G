@@ -14,11 +14,17 @@ Input:
 
   O<sub>2</sub>(g) + H<sup>+</sup> + e<sup>-</sup> ---> &#42;OOH
 
-- G<sub>2</sub>: &#42;OOH + H<sup>+</sup> + e<sup>-</sup> ---> &#42;O +H<sub>2</sub>O
+- G<sub>2</sub> = &#916;G<sub>&#42;O</sub> - &#916;G<sub>&#42;OOH</sub>
+   
+   &#42;OOH + H<sup>+</sup> + e<sup>-</sup> ---> &#42;O +H<sub>2</sub>O
 
-- G<sub>3</sub>: &#42;O + H<sup>+</sup> + e<sup>-</sup> ---> &#42;OH
+- G<sub>3</sub> = &#916;G<sub>&#42;OH</sub> - &#916;G<sub>&#42;O</sub>
+   
+   &#42;O + H<sup>+</sup> + e<sup>-</sup> ---> &#42;OH
 
-- G<sub>4</sub>: &#42;OH + H<sup>+</sup> + e<sup>-</sup> ---> H<sub>2</sub>O
+- G<sub>4</sub> = -&#916;G<sub>&#42;OH</sub>
+  
+  &#42;OH + H<sup>+</sup> + e<sup>-</sup> ---> H<sub>2</sub>O
 
 FePc_pH0_0V_hl.dat:  for the horizontal line
 
