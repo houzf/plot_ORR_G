@@ -10,7 +10,7 @@ Input:
 
     all_G={'FePc': [-1.406, -1.961, -0.985, -0.568]}
 
-G<sub>1</sub>: O<sub>2</sub>(g) + H<sup>+</sup> + e<sup>-</sup> ---> *OOH
+G<sub>1</sub>: O<sub>2</sub>(g) + H<sup>+</sup> + e<sup>-</sup> ---> <sup>#&42</sup>OOH
 
 FePc_pH0_0V_hl.dat:  for the horizontal line
 
