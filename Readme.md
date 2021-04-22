@@ -10,13 +10,15 @@ Input:
 
     all_G={'FePc': [-1.406, -1.961, -0.985, -0.568]}
 
-- G<sub>1</sub>: O<sub>2</sub>(g) + H<sup>+</sup> + e<sup>-</sup> ---> <sup>&#42;</sup>OOH
+- G<sub>1</sub> = &#916;G<sub>&#42;OOH</sub> + 2&#916;G<sub>water</sub>
 
-- G<sub>2</sub>: <sup>&#42;</sup>OOH + H<sup>+</sup> + e<sup>-</sup> ---> <sup>&#42;</sup>O +H<sub>2</sub>O
+  O<sub>2</sub>(g) + H<sup>+</sup> + e<sup>-</sup> ---> &#42;OOH
 
-- G<sub>3</sub>: <sup>&#42;</sup>O + H<sup>+</sup> + e<sup>-</sup> ---> <sup>&#42;</sup>OH
+- G<sub>2</sub>: &#42;OOH + H<sup>+</sup> + e<sup>-</sup> ---> &#42;O +H<sub>2</sub>O
 
-- G<sub>4</sub>: <sup>&#42;</sup>OH + H<sup>+</sup> + e<sup>-</sup> ---> H<sub>2</sub>O
+- G<sub>3</sub>: &#42;O + H<sup>+</sup> + e<sup>-</sup> ---> &#42;OH
+
+- G<sub>4</sub>: &#42;OH + H<sup>+</sup> + e<sup>-</sup> ---> H<sub>2</sub>O
 
 FePc_pH0_0V_hl.dat:  for the horizontal line
 
