@@ -32,3 +32,5 @@ Input:
 - FePc_pH13_0V_hl.dat:  for the horizontal line
 
 - FePc_pH13_0V_dl.dat: for the oblique line between two neighboring horizontal lines. 
+
+Based on the above output files of this python script file, one can use the gnuplot or Origin software to draw the diagram of free energy changes in the ORR.
