@@ -38,3 +38,19 @@ Based on the above output files of this python script file, one can use the gnup
 
 ### free_energy_change_plot.py
 For more types of chemical reactions.
+```
+   ### Please adjust the values of the following variables
+    volt = 0
+    pH= 0
+    format_fout='Origin'
+    is_start_zero = True
+
+    all_G={'A': [1.00533960000007, -0.156876649999958, -2.04267289999996,-2.04192315 , -1.6056124 ],
+           'B': [1.0053396, -0.15687665, -2.0426729,  -1.99666515, -1.5728894 ],
+           'C': [1.0053396, -0.08259665, -1.9960409, -1.97553215, -1.5937874]
+          }
+    substrates_list=[r'A$_2$C', r'B', r'C']
+    colors_list=['black','red', 'blue', 'green', 'purple', 'cyan', 'magenta', 'brown', 'tomato', 'orange']
+    reaction_species_list =[r'CO$_{2}$', r'COOH', r'CO', r'COH', r'C', r'CH$_{4}$', r'test']
+    ### END ####
+```
