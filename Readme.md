@@ -1,3 +1,4 @@
+### ORR_deltaG_pH_volt.py
 From the Gibb free energy change (&#916;G<sub>i</sub>) for each elementary ORR step (standard 4e reaction steps) at 0 V and pH=0, one can obtain the &#916;G<sub>i</sub> at a given voltage and pH.
 
 Input: 
@@ -34,3 +35,6 @@ Input:
 - FePc_pH13_0V_dl.dat: for the oblique line between two neighboring horizontal lines. 
 
 Based on the above output files of this python script file, one can use the gnuplot or Origin software to draw the diagram of free energy changes in the ORR.
+
+### free_energy_change_plot.py
+For more types of chemical reactions.
